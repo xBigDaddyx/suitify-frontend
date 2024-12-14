@@ -1,0 +1,58 @@
+[
+    {
+        "title": "Restaurant Management System",
+        "shortDesc": "Streamline your in-house dining services.",
+        "description": "Manage your hotel's restaurant operations with features like table reservations, order tracking, menu management, and billing, all integrated into the hotel system.",
+        "icon": "icon-restaurant-management",
+        "category": "Food & Beverage",
+        "link": "/modules/restaurant-management"
+    },
+    {
+        "title": "Spa & Wellness Management",
+        "shortDesc": "Enhance guest experience with spa services.",
+        "description": "Offer seamless booking for spa treatments, manage therapist schedules, and track inventory for spa products, all within one platform.",
+        "icon": "icon-spa-management",
+        "category": "Guest Services",
+        "link": "/modules/spa-management"
+    },
+    {
+        "title": "Event & Banquet Management",
+        "shortDesc": "Plan and execute events effortlessly.",
+        "description": "Manage banquet hall bookings, event schedules, catering services, and client preferences to deliver exceptional events.",
+        "icon": "icon-event-management",
+        "category": "Events",
+        "link": "/modules/event-management"
+    },
+    {
+        "title": "Housekeeping Management",
+        "shortDesc": "Optimize housekeeping operations.",
+        "description": "Track room cleaning schedules, assign tasks to staff, and ensure guests always have a clean and comfortable stay.",
+        "icon": "icon-housekeeping",
+        "category": "Operations",
+        "link": "/modules/housekeeping-management"
+    },
+    {
+        "title": "Inventory & Procurement",
+        "shortDesc": "Keep track of your stock levels.",
+        "description": "Monitor inventory levels, manage procurement processes, and automate restocking alerts to avoid shortages.",
+        "icon": "icon-inventory",
+        "category": "Supply Chain",
+        "link": "/modules/inventory-management"
+    },
+    {
+        "title": "Loyalty & Rewards Program",
+        "shortDesc": "Build lasting relationships with guests.",
+        "description": "Create and manage loyalty programs to reward frequent guests and encourage repeat bookings.",
+        "icon": "icon-loyalty-program",
+        "category": "Guest Engagement",
+        "link": "/modules/loyalty-program"
+    },
+    {
+        "title": "Conference Room Management",
+        "shortDesc": "Simplify meeting room bookings.",
+        "description": "Enable guests and staff to reserve conference rooms, manage schedules, and add services like catering or equipment rental.",
+        "icon": "icon-conference-management",
+        "category": "Business",
+        "link": "/modules/conference-room-management"
+    }
+]

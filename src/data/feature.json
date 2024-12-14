@@ -1,0 +1,51 @@
+[
+    {
+        "title": "Real-Time Room Management",
+        "shortDesc": "Monitor room statuses in real-time.",
+        "description": "Keep track of room availability, maintenance, and reservations effortlessly. Manage your rooms' lifecycle with our powerful state management system, ensuring smooth operations and up-to-date information.",
+        "icon": "room_management_icon.svg",
+        "category": "Operations"
+    },
+    {
+        "title": "Seamless Reservation System",
+        "shortDesc": "Simplify your booking process.",
+        "description": "Easily manage reservations, guest check-ins, and check-outs with an intuitive interface designed to optimize your front desk operations.",
+        "icon": "reservation_icon.svg",
+        "category": "Reservations"
+    },
+    {
+        "title": "Advanced Reporting Tools",
+        "shortDesc": "Gain insights into your performance.",
+        "description": "Generate detailed reports on revenue, occupancy, and other key metrics to make data-driven decisions and improve your hotel's efficiency.",
+        "icon": "reporting_icon.svg",
+        "category": "Analytics"
+    },
+    {
+        "title": "Cloud-Based Accessibility",
+        "shortDesc": "Work from anywhere, anytime.",
+        "description": "Access your hotel management system securely from any device, ensuring your operations are always within reach.",
+        "icon": "cloud_access_icon.svg",
+        "category": "Technology"
+    },
+    {
+        "title": "Integrated Payment Processing",
+        "shortDesc": "Accept payments with ease.",
+        "description": "Support multiple payment gateways, automate invoicing, and ensure smooth financial transactions for your guests and business.",
+        "icon": "payment_processing_icon.svg",
+        "category": "Finance"
+    },
+    {
+        "title": "Customizable User Roles",
+        "shortDesc": "Control access securely.",
+        "description": "Assign roles and permissions to staff, ensuring sensitive information is protected while enabling efficient task management.",
+        "icon": "user_roles_icon.svg",
+        "category": "Security"
+    },
+    {
+        "title": "Multi-Hotel Management",
+        "shortDesc": "Manage multiple properties effortlessly.",
+        "description": "Operate and oversee multiple hotels from a single platform, streamlining management across all your properties.",
+        "icon": "multi_hotel_icon.svg",
+        "category": "Multi-Property"
+    }
+]
